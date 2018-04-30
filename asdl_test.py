@@ -1,7 +1,7 @@
 # Simple testing / sanity-checking for asdl.py
 # Assumes some things about the current Python.asdl, which is used as input.
 
-import sys, unittest
+import sys, -
 import asdl
 
 
