@@ -17,6 +17,9 @@ Python version
 
 The officially required version is Python 3.3, but should run with any 3.x
 
+Note: asdl_c.py and Python.asdl are copied over, without changes, from the
+CPython repository.
+
 License
 =======
 
